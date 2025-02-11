@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/Lore Natusol/Desktop/TriassicCuddleAnim/TriassicCuddle/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/Lore Natusol/Desktop/TriassicCuddleAnim/TriassicCuddle/Content/MainContentFolder/Maps/Main.umap"
+				"C:/Users/Lore Natusol/Desktop/TriassicCuddleAnim/TriassicCuddle/Content/MainContentFolder/Maps/Main.umap",
+				"C:/Users/Lore Natusol/Desktop/TriassicCuddleAnim/TriassicCuddle/Content/MainContentFolder/Rigs/SKM_AlligatorModel_CtrlRig.uasset",
+				"C:/Users/Lore Natusol/Desktop/TriassicCuddleAnim/TriassicCuddle/Content/MainContentFolder/Models/SkeletalMeshes/SKM_AlligatorModel.uasset"
 			]
 		}
 	]
